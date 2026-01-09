@@ -1,2 +1,2 @@
 # Countdown_timer
- a simple The Countdown timer is a program that demonstrates the  use of the Python programming language for implementing a countdown timer using command line.
+ The Countdown timer is a program that demonstrates the  use of the Python programming language for implementing a countdown timer using command line.
